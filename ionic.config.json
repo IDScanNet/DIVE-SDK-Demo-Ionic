@@ -1,0 +1,7 @@
+{
+  "name": "dive-test-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}

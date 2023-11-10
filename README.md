@@ -1,4 +1,4 @@
-# DIVE SDK Ionic Sample Application
+# DIVE SDK Demo for Ionic
 
 The sample application demonstrates work with DIVE SDK for Ionic Capacitor
 Includes DIVE SDK iOS and DIVE Online SDK

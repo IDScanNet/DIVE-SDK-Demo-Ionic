@@ -1,4 +1,4 @@
-# DIVE SDK Demo for Ionic
+# [DIVE SDK](https://www.npmjs.com/package/@idscan/divesdk-plugin) Demo for Ionic
 
 The sample application demonstrates work with DIVE SDK for Ionic Capacitor
 Includes DIVE SDK iOS and DIVE Online SDK
